@@ -1,0 +1,505 @@
+2022-09-07 21:07:25 INFO  EmployeeController:53 - Enter 1 to add Employee
+2022-09-07 21:07:25 INFO  EmployeeController:54 - Enter 2 to display Employe 
+2022-09-07 21:07:25 INFO  EmployeeController:55 - Enter 3 to asociate Employee
+2022-09-07 21:07:25 INFO  EmployeeController:56 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:07:25 INFO  EmployeeController:57 - Press 5 to update Employee Phone Number
+2022-09-07 21:07:25 INFO  EmployeeController:58 - Press 6 to delete Employee records
+2022-09-07 21:07:25 INFO  EmployeeController:59 - Enter any other to exit
+2022-09-07 21:07:27 INFO  EmployeeController:125 - Press 1 to add Trainer details
+2022-09-07 21:07:27 INFO  EmployeeController:126 - Press 2 to add Trainees details
+2022-09-07 21:07:27 INFO  EmployeeController:129 - Enter Number of detail to add
+2022-09-07 21:07:29 INFO  EmployeeController:132 - Enter First name
+2022-09-07 21:07:31 INFO  EmployeeController:134 - Enter Last name
+2022-09-07 21:07:33 INFO  EmployeeController:140 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:07:35 INFO  EmployeeController:148 - Invalid
+2022-09-07 21:07:35 INFO  EmployeeController:140 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:07:40 INFO  EmployeeController:157 - Enter PhoneNumber
+2022-09-07 21:07:42 INFO  EmployeeController:164 - Invalid
+2022-09-07 21:07:42 INFO  EmployeeController:157 - Enter PhoneNumber
+2022-09-07 21:07:45 INFO  EmployeeController:172 - Enter DateOfJoin
+2022-09-07 21:07:48 INFO  EmployeeController:172 - Enter DateOfJoin
+2022-09-07 21:07:54 INFO  EmployeeController:194 - Your employee id is I221
+ Email id isyuvaraj.v@ideas2it.com
+2022-09-07 21:07:54 INFO  EmployeeController:195 - Kindly take a note of it
+2022-09-07 21:07:54 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-07 21:07:54 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 21:07:55 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-07 21:07:55 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 21:07:55 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 21:07:55 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 21:07:55 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 21:07:55 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 21:07:55 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 21:07:56 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@b67cc70] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 21:07:56 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 21:07:56 INFO  EmployeeController:53 - Enter 1 to add Employee
+2022-09-07 21:07:56 INFO  EmployeeController:54 - Enter 2 to display Employe 
+2022-09-07 21:07:56 INFO  EmployeeController:55 - Enter 3 to asociate Employee
+2022-09-07 21:07:56 INFO  EmployeeController:56 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:07:56 INFO  EmployeeController:57 - Press 5 to update Employee Phone Number
+2022-09-07 21:07:56 INFO  EmployeeController:58 - Press 6 to delete Employee records
+2022-09-07 21:07:56 INFO  EmployeeController:59 - Enter any other to exit
+2022-09-07 21:35:06 INFO  EmployeeController:53 - Enter 1 to add Employee
+2022-09-07 21:35:06 INFO  EmployeeController:54 - Enter 2 to display Employe 
+2022-09-07 21:35:06 INFO  EmployeeController:55 - Enter 3 to asociate Employee
+2022-09-07 21:35:06 INFO  EmployeeController:56 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:35:06 INFO  EmployeeController:57 - Press 5 to update Employee Phone Number
+2022-09-07 21:35:06 INFO  EmployeeController:58 - Press 6 to delete Employee records
+2022-09-07 21:35:06 INFO  EmployeeController:59 - Enter any other to exit
+2022-09-07 21:35:08 INFO  EmployeeController:125 - Press 1 to add Trainer details
+2022-09-07 21:35:08 INFO  EmployeeController:126 - Press 2 to add Trainees details
+2022-09-07 21:35:09 INFO  EmployeeController:129 - Enter Number of detail to add
+2022-09-07 21:35:10 INFO  EmployeeController:161 - Enter First Name
+2022-09-07 21:35:14 INFO  EmployeeController:167 - Enter Last Name
+2022-09-07 21:35:17 INFO  EmployeeController:194 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:35:30 INFO  EmployeeController:202 - Invalid
+2022-09-07 21:35:30 INFO  EmployeeController:194 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:35:36 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 21:35:39 INFO  EmployeeController:183 - Invalid
+2022-09-07 21:35:39 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 21:35:43 INFO  EmployeeController:215 - Enter DateOfJoin
+2022-09-07 21:35:55 INFO  EmployeeController:215 - Enter DateOfJoin
+2022-09-07 21:36:03 INFO  EmployeeController:140 - Your employee id is I221
+ Email id isyuvaraj.v@ideas2it.com
+2022-09-07 21:36:03 INFO  EmployeeController:141 - Kindly take a note of it
+2022-09-07 21:36:04 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-07 21:36:04 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 21:36:04 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-07 21:36:04 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 21:36:04 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 21:36:04 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 21:36:04 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 21:36:04 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 21:36:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 21:36:05 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3a6045c6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 21:36:06 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 21:36:06 INFO  EmployeeController:53 - Enter 1 to add Employee
+2022-09-07 21:36:06 INFO  EmployeeController:54 - Enter 2 to display Employe 
+2022-09-07 21:36:06 INFO  EmployeeController:55 - Enter 3 to asociate Employee
+2022-09-07 21:36:06 INFO  EmployeeController:56 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:36:06 INFO  EmployeeController:57 - Press 5 to update Employee Phone Number
+2022-09-07 21:36:06 INFO  EmployeeController:58 - Press 6 to delete Employee records
+2022-09-07 21:36:06 INFO  EmployeeController:59 - Enter any other to exit
+2022-09-07 21:36:10 INFO  EmployeeController:68 - Press 1 to display trainer details
+2022-09-07 21:36:10 INFO  EmployeeController:69 - Press 2 to display trainee details
+2022-09-07 21:36:10 INFO  EmployeeController:70 - Press 3 to dispaly Trainer or Trainee by entering their EmployeId
+2022-09-07 21:36:11 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 21:36:11 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 21:36:11 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 21:36:11 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 21:36:11 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 21:36:11 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 21:36:11 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 21:36:11 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@63fd4dda] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 21:36:11 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 21:36:12 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 21:36:12 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 21:36:12 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 21:36:12 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 21:36:12 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 21:36:12 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 21:36:12 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 21:36:12 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5eb0a686] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 21:36:12 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I01
+Name :yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :9999999999
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I01
+Name :sanjai
+Email ID sanjai.king@ideas2it.com
+Age :21
+Phone Number :987654321
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I21
+Name :Dhanesh
+Email ID dhanesh.kumar@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I221
+Name :1
+Email ID 1.1@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I221
+Name :Yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I101
+Name :Jusyin
+Email ID jusyin.rakasekar@ideas2it.com
+Age :21
+Phone Number :9876541212
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I221
+Name :YUVARAJ
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :1234567890
+2022-09-07 21:36:12 INFO  EmployeeController:249 - ID :I221
+Name :Yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :22
+Phone Number :9876543211
+2022-09-07 21:36:12 INFO  EmployeeController:53 - Enter 1 to add Employee
+2022-09-07 21:36:12 INFO  EmployeeController:54 - Enter 2 to display Employe 
+2022-09-07 21:36:12 INFO  EmployeeController:55 - Enter 3 to asociate Employee
+2022-09-07 21:36:12 INFO  EmployeeController:56 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:36:12 INFO  EmployeeController:57 - Press 5 to update Employee Phone Number
+2022-09-07 21:36:12 INFO  EmployeeController:58 - Press 6 to delete Employee records
+2022-09-07 21:36:12 INFO  EmployeeController:59 - Enter any other to exit
+2022-09-07 21:47:24 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 21:47:24 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 21:47:24 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 21:47:24 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:47:24 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 21:47:24 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 21:47:24 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 21:47:25 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 21:47:25 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 21:47:26 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 21:47:27 INFO  EmployeeController:108 - Invalid Input please Enter again
+2022-09-07 21:47:27 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 21:47:27 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 21:47:27 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 21:47:27 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:47:27 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 21:47:27 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 21:47:27 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 21:47:29 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 21:47:29 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 21:47:30 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 21:47:31 INFO  EmployeeController:159 - Enter First Name
+2022-09-07 21:47:33 INFO  EmployeeController:165 - Enter Last Name
+2022-09-07 21:47:35 INFO  EmployeeController:192 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:47:43 INFO  EmployeeController:174 - Enter PhoneNumber
+2022-09-07 21:48:15 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 21:48:15 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 21:48:15 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 21:48:15 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:48:15 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 21:48:15 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 21:48:15 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 21:48:16 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 21:48:16 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 21:48:16 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 21:48:17 INFO  EmployeeController:159 - Enter First Name
+2022-09-07 21:48:17 INFO  EmployeeController:165 - Enter Last Name
+2022-09-07 21:48:17 INFO  EmployeeController:192 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:48:22 INFO  EmployeeController:174 - Enter PhoneNumber
+2022-09-07 21:50:14 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 21:50:14 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 21:50:14 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 21:50:14 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 21:50:14 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 21:50:14 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 21:50:14 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 21:50:15 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 21:50:15 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 21:50:15 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 21:50:17 INFO  EmployeeController:159 - Enter First Name
+2022-09-07 21:50:19 INFO  EmployeeController:165 - Enter Last Name
+2022-09-07 21:50:21 INFO  EmployeeController:192 - Enter DOB in YYYY-MM-DD format
+2022-09-07 21:50:25 INFO  EmployeeController:174 - Enter PhoneNumber
+2022-09-07 21:50:28 INFO  EmployeeController:181 - Invalid
+2022-09-07 21:50:28 INFO  EmployeeController:174 - Enter PhoneNumber
+2022-09-07 22:00:20 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:00:20 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:00:20 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:00:20 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:00:20 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:00:20 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:00:20 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:00:22 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 22:00:22 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 22:00:23 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 22:00:24 INFO  EmployeeController:160 - Enter First Name
+2022-09-07 22:00:27 INFO  EmployeeController:166 - Enter Last Name
+2022-09-07 22:00:28 INFO  EmployeeController:193 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:00:53 INFO  EmployeeController:175 - Enter PhoneNumber
+2022-09-07 22:01:12 INFO  EmployeeController:139 - Your employee id is I01
+ Email id isyuvaraj.v@ideas2it.com
+2022-09-07 22:01:12 INFO  EmployeeController:140 - Kindly take a note of it
+2022-09-07 22:01:12 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-07 22:01:12 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:01:12 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-07 22:01:12 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:01:12 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:01:12 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:01:12 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:01:12 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:01:13 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:01:14 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3a6045c6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:01:14 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:01:14 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:01:14 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:01:14 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:01:14 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:01:14 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:01:14 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:01:14 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:01:17 INFO  EmployeeController:66 - Press 1 to display trainer details
+2022-09-07 22:01:17 INFO  EmployeeController:67 - Press 2 to display trainee details
+2022-09-07 22:01:17 INFO  EmployeeController:68 - Press 3 to dispaly Trainer or Trainee by entering their EmployeId
+2022-09-07 22:01:19 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:01:19 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:01:19 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:01:19 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:01:19 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:01:19 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:01:19 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:01:19 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@63fd4dda] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:01:19 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:01:19 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:01:19 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:01:19 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:01:19 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:01:19 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:01:19 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:01:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:01:20 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@59018eed] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:01:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I01
+Name :yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :9999999999
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I01
+Name :sanjai
+Email ID sanjai.king@ideas2it.com
+Age :21
+Phone Number :987654321
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I21
+Name :Dhanesh
+Email ID dhanesh.kumar@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I221
+Name :1
+Email ID 1.1@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I221
+Name :Yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I101
+Name :Jusyin
+Email ID jusyin.rakasekar@ideas2it.com
+Age :21
+Phone Number :9876541212
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I221
+Name :YUVARAJ
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :1234567890
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I221
+Name :Yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :22
+Phone Number :9876543211
+2022-09-07 22:01:20 INFO  EmployeeController:267 - ID :I01
+Name :Yuvaraj
+Email ID yuvaraj.v@ideas2it.com
+Age :21
+Phone Number :9876543211
+2022-09-07 22:01:20 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:01:20 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:01:20 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:01:20 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:01:20 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:01:20 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:01:20 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:06:47 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:06:47 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:06:47 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:06:47 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:06:47 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:06:47 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:06:47 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:06:48 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 22:06:48 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 22:06:49 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 22:06:52 INFO  EmployeeController:161 - Enter First Name
+2022-09-07 22:06:58 INFO  EmployeeController:167 - Enter Last Name
+2022-09-07 22:07:00 INFO  EmployeeController:194 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:07:11 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 22:08:44 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:08:44 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:08:44 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:08:44 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:08:44 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:08:44 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:08:44 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:08:45 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 22:08:45 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 22:08:46 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 22:08:49 INFO  EmployeeController:161 - Enter First Name
+2022-09-07 22:09:38 INFO  EmployeeController:167 - Enter Last Name
+2022-09-07 22:09:40 INFO  EmployeeController:194 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:09:47 INFO  EmployeeController:216 - Enter date of join in dd-mm-yyyy or yyyy-mm-dd 
+2022-09-07 22:10:00 INFO  EmployeeController:216 - Enter date of join in dd-mm-yyyy or yyyy-mm-dd 
+2022-09-07 22:10:14 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 22:10:19 INFO  EmployeeController:183 - Invalid
+2022-09-07 22:10:19 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 22:10:36 INFO  EmployeeController:140 - Your employee id is I161
+ Email id isdeepak.t@ideas2it.com
+2022-09-07 22:10:36 INFO  EmployeeController:141 - Kindly take a note of it
+2022-09-07 22:10:36 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-07 22:10:36 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:10:37 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-07 22:10:37 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:10:37 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:10:37 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:10:37 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:10:37 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:10:37 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:10:38 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@b67cc70] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:10:38 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:10:38 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:10:38 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:10:38 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:10:38 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:10:38 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:10:38 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:10:38 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:10:42 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 22:10:42 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 22:10:44 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 22:10:45 INFO  EmployeeController:161 - Enter First Name
+2022-09-07 22:10:48 INFO  EmployeeController:167 - Enter Last Name
+2022-09-07 22:10:49 INFO  EmployeeController:194 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:10:54 INFO  EmployeeController:216 - Enter date of join in dd-mm-yyyy or yyyy-mm-dd 
+2022-09-07 22:11:05 INFO  EmployeeController:216 - Enter date of join in dd-mm-yyyy or yyyy-mm-dd 
+2022-09-07 22:11:15 INFO  EmployeeController:176 - Enter PhoneNumber
+2022-09-07 22:11:21 INFO  EmployeeController:140 - Your employee id is I162
+ Email id issd.g@ideas2it.com
+2022-09-07 22:11:21 INFO  EmployeeController:141 - Kindly take a note of it
+2022-09-07 22:11:21 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:11:21 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:11:21 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:11:21 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:11:21 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:11:21 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:11:21 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:11:22 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@64502326] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:11:22 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:11:22 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:11:22 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:11:22 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:11:22 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:11:22 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:11:22 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:11:22 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:11:24 INFO  EmployeeController:66 - Press 1 to display trainer details
+2022-09-07 22:11:24 INFO  EmployeeController:67 - Press 2 to display trainee details
+2022-09-07 22:11:24 INFO  EmployeeController:68 - Press 3 to dispaly Trainer or Trainee by entering their EmployeId
+2022-09-07 22:11:25 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:11:25 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:11:25 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:11:25 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:11:25 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:11:25 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:11:25 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:11:25 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3b97907c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:11:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:11:26 INFO  EmployeeController:282 - ID :I222
+Name :yosuva
+Email ID yosuva.r@ideas2it.com
+Age :21
+Phone Number :2920209
+2022-09-07 22:11:26 INFO  EmployeeController:282 - ID :I231
+Name :Sanjai
+Email ID sanjai.a@ideas2it.com
+Age :21
+Phone Number :9289282
+2022-09-07 22:11:26 INFO  EmployeeController:282 - ID :I162
+Name :sd
+Email ID sd.g@ideas2it.com
+Age :21
+Phone Number :9876543212
+2022-09-07 22:11:26 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:11:26 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:11:26 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:11:26 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:11:26 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:11:26 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:11:26 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:12:19 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:12:19 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:12:19 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:12:19 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:12:19 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:12:19 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:12:19 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:12:20 INFO  EmployeeController:123 - Press 1 to add Trainer details
+2022-09-07 22:12:20 INFO  EmployeeController:124 - Press 2 to add Trainees details
+2022-09-07 22:12:21 INFO  EmployeeController:127 - Enter Number of detail to add
+2022-09-07 22:12:22 INFO  EmployeeController:159 - Enter First Name
+2022-09-07 22:12:25 INFO  EmployeeController:165 - Enter Last Name
+2022-09-07 22:12:27 INFO  EmployeeController:192 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:12:35 INFO  EmployeeController:200 - Invalid
+2022-09-07 22:12:35 INFO  EmployeeController:192 - Enter DOB in YYYY-MM-DD format
+2022-09-07 22:12:39 INFO  EmployeeController:214 - Enter date of join in dd-mm-yyyy or yyyy-mm-dd 
+2022-09-07 22:12:49 INFO  EmployeeController:174 - Enter PhoneNumber
+2022-09-07 22:12:54 INFO  EmployeeController:138 - Your employee id is I171
+ Email id iser.peri@ideas2it.com
+2022-09-07 22:12:54 INFO  EmployeeController:139 - Kindly take a note of it
+2022-09-07 22:12:54 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-07 22:12:54 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:12:54 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-07 22:12:55 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:12:55 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:12:55 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:12:55 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:12:55 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:12:55 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:12:56 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68d6d775] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:12:56 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:12:56 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:12:56 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:12:56 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:12:56 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:12:56 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:12:56 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:12:56 INFO  EmployeeController:57 - Enter any other to exit
+2022-09-07 22:13:01 INFO  EmployeeController:66 - Press 1 to display trainer details
+2022-09-07 22:13:01 INFO  EmployeeController:67 - Press 2 to display trainee details
+2022-09-07 22:13:01 INFO  EmployeeController:68 - Press 3 to dispaly Trainer or Trainee by entering their EmployeId
+2022-09-07 22:13:02 WARN  deprecation:99 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2022-09-07 22:13:02 WARN  pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2022-09-07 22:13:02 INFO  pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/ideas2it_Management]
+2022-09-07 22:13:02 INFO  pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+2022-09-07 22:13:02 INFO  pooling:132 - HHH10001003: Autocommit mode: false
+2022-09-07 22:13:02 INFO  DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-09-07 22:13:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-09-07 22:13:02 INFO  access:48 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1d6751e3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-09-07 22:13:02 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-07 22:13:02 INFO  EmployeeController:280 - ID :I222
+Name :yosuva
+Email ID yosuva.r@ideas2it.com
+Age :21
+Phone Number :2920209
+2022-09-07 22:13:02 INFO  EmployeeController:280 - ID :I231
+Name :Sanjai
+Email ID sanjai.a@ideas2it.com
+Age :21
+Phone Number :9289282
+2022-09-07 22:13:02 INFO  EmployeeController:280 - ID :I162
+Name :sd
+Email ID sd.g@ideas2it.com
+Age :21
+Phone Number :9876543212
+2022-09-07 22:13:02 INFO  EmployeeController:280 - ID :I171
+Name :er
+Email ID er.peri@ideas2it.com
+Age :21
+Phone Number :9876543212
+2022-09-07 22:13:02 INFO  EmployeeController:51 - Enter 1 to add Employee
+2022-09-07 22:13:02 INFO  EmployeeController:52 - Enter 2 to display Employe 
+2022-09-07 22:13:02 INFO  EmployeeController:53 - Enter 3 to asociate Employee
+2022-09-07 22:13:02 INFO  EmployeeController:54 - Enter 4 to display Trainers and Trainees
+2022-09-07 22:13:02 INFO  EmployeeController:55 - Press 5 to update Employee Phone Number
+2022-09-07 22:13:02 INFO  EmployeeController:56 - Press 6 to delete Employee records
+2022-09-07 22:13:02 INFO  EmployeeController:57 - Enter any other to exit
